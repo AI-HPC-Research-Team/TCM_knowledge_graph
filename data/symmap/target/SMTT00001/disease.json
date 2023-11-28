@@ -1,0 +1,156 @@
+{
+    "data": [
+        {
+            "Disease_id": "SMDE00866",
+            "OMIM_id": "277900",
+            "Orphanet_id": "905.0",
+            "Disease_name": "Wilson Disease"
+        },
+        {
+            "Disease_id": "SMDE01307",
+            "OMIM_id": "114550",
+            "Orphanet_id": null,
+            "Disease_name": "Hepatocellular Carcinoma"
+        },
+        {
+            "Disease_id": "SMDE01348",
+            "OMIM_id": "104300",
+            "Orphanet_id": null,
+            "Disease_name": "Alzheimer Disease"
+        },
+        {
+            "Disease_id": "SMDE01463",
+            "OMIM_id": "611489",
+            "Orphanet_id": null,
+            "Disease_name": "Corticosteroid-Binding Globulin Deficiency"
+        },
+        {
+            "Disease_id": "SMDE02575",
+            "OMIM_id": "615042",
+            "Orphanet_id": null,
+            "Disease_name": "Congenital Disorder Of Glycosylation, Type Iu"
+        },
+        {
+            "Disease_id": "SMDE03682",
+            "OMIM_id": "614036",
+            "Orphanet_id": null,
+            "Disease_name": "Alpha-2-Macroglobulin Deficiency"
+        },
+        {
+            "Disease_id": "SMDE04802",
+            "OMIM_id": "300884",
+            "Orphanet_id": null,
+            "Disease_name": "Epileptic Encephalopathy, Early Infantile, 36"
+        },
+        {
+            "Disease_id": "SMDE05438",
+            "OMIM_id": null,
+            "Orphanet_id": null,
+            "Disease_name": "Acute Kidney Injury"
+        },
+        {
+            "Disease_id": "SMDE05751",
+            "OMIM_id": "516000|104300|MTHU004582",
+            "Orphanet_id": null,
+            "Disease_name": "Alzheimer'S Disease"
+        },
+        {
+            "Disease_id": "SMDE06686",
+            "OMIM_id": null,
+            "Orphanet_id": null,
+            "Disease_name": "Byssinosis"
+        },
+        {
+            "Disease_id": "SMDE07339",
+            "OMIM_id": null,
+            "Orphanet_id": null,
+            "Disease_name": "Colonic Neoplasms"
+        },
+        {
+            "Disease_id": "SMDE07810",
+            "OMIM_id": null,
+            "Orphanet_id": null,
+            "Disease_name": "Depressive Disorder"
+        },
+        {
+            "Disease_id": "SMDE08623",
+            "OMIM_id": null,
+            "Orphanet_id": null,
+            "Disease_name": "Familial Alzheimer Disease (Fad)"
+        },
+        {
+            "Disease_id": "SMDE09392",
+            "OMIM_id": "MTHU012703",
+            "Orphanet_id": null,
+            "Disease_name": "Hepatocellular Adenoma"
+        },
+        {
+            "Disease_id": "SMDE10481",
+            "OMIM_id": "114550|MTHU008946",
+            "Orphanet_id": null,
+            "Disease_name": "Liver Carcinoma"
+        },
+        {
+            "Disease_id": "SMDE10482",
+            "OMIM_id": "MTHU018550|MTHU002081|MTHU008711",
+            "Orphanet_id": null,
+            "Disease_name": "Liver Cirrhosis"
+        },
+        {
+            "Disease_id": "SMDE10484",
+            "OMIM_id": null,
+            "Orphanet_id": null,
+            "Disease_name": "Liver Cirrhosis, Experimental"
+        },
+        {
+            "Disease_id": "SMDE10545",
+            "OMIM_id": null,
+            "Orphanet_id": null,
+            "Disease_name": "Lung Diseases"
+        },
+        {
+            "Disease_id": "SMDE10554",
+            "OMIM_id": null,
+            "Orphanet_id": null,
+            "Disease_name": "Lung Neoplasms"
+        },
+        {
+            "Disease_id": "SMDE10873",
+            "OMIM_id": "MTHU000940",
+            "Orphanet_id": null,
+            "Disease_name": "Mental Depression"
+        },
+        {
+            "Disease_id": "SMDE11385",
+            "OMIM_id": "MTHU036764",
+            "Orphanet_id": null,
+            "Disease_name": "Nephrotic Syndrome"
+        },
+        {
+            "Disease_id": "SMDE11703",
+            "OMIM_id": null,
+            "Orphanet_id": null,
+            "Disease_name": "Osteosclerotic Myeloma"
+        }
+    ],
+    "columns": [
+        {
+            "field": "Disease_id",
+            "formatter": "",
+            "sortable": true,
+            "title": "Disease id"
+        },
+        {
+            "field": "Disease_name",
+            "title": "Disease name"
+        },
+        {
+            "field": "OMIM_id",
+            "title": "OMIM id"
+        },
+        {
+            "field": "Orphanet_id",
+            "title": "Orphanet id"
+        }
+    ]
+}
